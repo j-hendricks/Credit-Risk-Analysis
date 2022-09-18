@@ -21,9 +21,9 @@ The bar chart displays the recall from each technique for high risk loans. Preci
 
 Below is the classification reports for Balanced Random Forest Classifier and Easy Ensemble Classifier, respectively. The high risk recall was 0.56 vs 0.84, respectively. The precision of high risk loans was 0.03 and 0.08, respectively. Therefore, the Easy Ensemble Classifier performed best at identifying high risk loans. 
 
-![cm_rand](images/cm_rand.png)
+![cm_rand](images/report_rand.png)
 
-![cm_easy](images/cm_easy.png)
+![cm_easy](images/report_easy.png)
 
 ## Summary
 
